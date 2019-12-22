@@ -58,4 +58,4 @@ life left then they will be granted with 25 extra points and all of their lives 
 </ol>
 
 
-Contributors - Aditya Goyal, Uttkarsh Berwal, Zohaib Rehman, Tony Liu, Rutav Shah and Sargunan Murthy
+<b>Contributors</b> - Aditya Goyal, Uttkarsh Berwal, Zohaib Rehman, Tony Liu, Rutav Shah and Sargunan Murthy
