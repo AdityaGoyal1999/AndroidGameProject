@@ -3,7 +3,7 @@
 We are using google's firebase cloud service to store the database and authenticate the user login process.
 We are also using Design Patterns in this project to reduce coupling and dependecies in the code. Also, this process increases the cohesion among classes which lays emphasis on more rigorous Object Oriented Programming.
 <ol>
-  <b><ls>1. Labrynth</ls></b><br>
+  <b><ls><h2>1. Labrynth</h2></ls></b><br>
   Info: In this game we have a bunch of barriers and a ball. The basic purpose of the game to get the
 ball through the barrier or avoid it. In this game we have 3 lives for the player.
 We have 3 sub game for this game -
@@ -21,7 +21,7 @@ The other way to win the a game is score 15 points in that if selected 'easy' mo
 We are applying the Strategy design pattern by using Algorithm interface to decrease coupling and
 increase cohesion.
   <br>
-  <b><ls>2. Get the ball into the basket</ls></b><br>
+  <b><ls><h2>2. Get the ball into the basket</h2></ls></b><br>
   Info: In this game the goal is to click the ball on the left that matches certain ones on the right
 If you select hard mode you will have 5 tries (incorrect answers) and default easy mode is 7 tries
 
@@ -36,7 +36,7 @@ If you select hard mode you will have 5 tries (incorrect answers) and default ea
 We are applying the Strategy design pattern by using Algorithm interface to decrease coupling and
 increase cohesion.
   <br>
-  <b><ls>3. Recognize the color</ls></b><br>
+  <b><ls><h2>3. Recognize the color</h2></ls></b><br>
   Info: In this game the user is first shown 9 colored balls for a short duration.
 They should be memorise the position of these colored balls. After this short duration, they will be
 prompted with one of those colored balls. The player should now select the position of the ball
