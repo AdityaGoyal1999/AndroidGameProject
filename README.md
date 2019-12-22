@@ -1,6 +1,7 @@
 # Android Game Project
 <h3> Creates an Android Application with 3 game :- </h3>
 We are using google's firebase cloud service to store the database and authenticate the user login process.
+We are also using Design Patterns in this project to reduce coupling and dependecies in the code. Also, this process increases the cohesion among classes which lays emphasis on more rigorous Object Oriented Programming.
 <ol>
   <b><ls>1. Labrynth</ls></b><br>
   Info: In this game we have a bunch of barriers and a ball. The basic purpose of the game to get the
