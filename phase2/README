@@ -31,7 +31,8 @@ If you select hard mode you will have 5 tries (incorrect answers) and default ea
     Mode 3: Just like game mode, but the stat tracked is accuracy get 60% accuracy after at least 5
     clicks on the ball to win
 
-
+We are applying the Strategy design pattern by using Algorithm interface to decrease coupling and
+increase cohesion.
 
 
 Game 3: The Memory Game
