@@ -1,3 +1,6 @@
+[![FirebaseOpensource.com](https://img.shields.io/badge/Docs-firebaseopensource.com-orange.svg)](
+https://firebaseopensource.com/projects/firebase/firebaseui-android
+)
 # Android Game Project
 <h3> Creates an Android Application with 3 game :- </h3>
 We are using google's firebase cloud service to store the database and authenticate the user login process.
